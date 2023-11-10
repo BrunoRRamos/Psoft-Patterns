@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9a1d2c1-229f-4825-8f48-e2a66266c248" name="Changes" comment="feat: Template" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WS1YHUXrK1KPUaAmz8C3NB8yO1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Bruno/Documents/Repositorios/projeto-psoft-grupo7-projeto-psoft",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="State" />
+      <recent name="State.estados" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Command.Main">
+    <configuration name="Command.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Command.Main" />
+      <module name="Psoft_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strategy.Main" />
+      <module name="Psoft_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="State.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="State.Main" />
+      <module name="Psoft_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="State.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Template.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Template.Main" />
+      <module name="Psoft_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Template.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Observer.main" />
+      <module name="Psoft_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Command.Main" />
+        <item itemvalue="Application.Template.Main" />
+        <item itemvalue="Application.State.Main" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9a1d2c1-229f-4825-8f48-e2a66266c248" name="Changes" comment="" />
+      <created>1696711212461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696711212461</updated>
+      <workItem from="1696711213461" duration="1892000" />
+      <workItem from="1697501081786" duration="679000" />
+      <workItem from="1697504008260" duration="1417000" />
+      <workItem from="1697758731687" duration="40000" />
+      <workItem from="1698357310659" duration="6414000" />
+      <workItem from="1698702136078" duration="2898000" />
+      <workItem from="1698707614294" duration="282000" />
+      <workItem from="1698871906729" duration="22000" />
+      <workItem from="1698871937104" duration="3000" />
+      <workItem from="1699570627654" duration="4708000" />
+      <workItem from="1699575416472" duration="41000" />
+      <workItem from="1699575465163" duration="48000" />
+      <workItem from="1699575558139" duration="4000" />
+      <workItem from="1699575564802" duration="6000" />
+      <workItem from="1699575578488" duration="18000" />
+      <workItem from="1699575619526" duration="281000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: Template">
+      <option name="closed" value="true" />
+      <created>1698707336666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698707336666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Template" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Template" />
+  </component>
+</project>
